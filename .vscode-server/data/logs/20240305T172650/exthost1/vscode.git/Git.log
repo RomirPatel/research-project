@@ -1,0 +1,51 @@
+2024-03-05 17:26:58.935 [info] Log level: Info
+2024-03-05 17:26:58.935 [info] Validating found git in: "git"
+2024-03-05 17:26:58.935 [info] Using git "2.39.2" from "git"
+2024-03-05 17:26:58.935 [info] > git rev-parse --show-toplevel [121ms]
+2024-03-05 17:26:58.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:26:58.935 [info] > git rev-parse --show-toplevel [46ms]
+2024-03-05 17:26:58.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:26:58.935 [info] > git rev-parse --show-toplevel [6ms]
+2024-03-05 17:26:58.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:26:58.961 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-05 17:26:58.961 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:26:59.038 [info] > git rev-parse --show-toplevel [14ms]
+2024-03-05 17:26:59.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:26:59.160 [info] > git rev-parse --show-toplevel [104ms]
+2024-03-05 17:26:59.160 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-05 17:28:18.269 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-05 17:28:18.288 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-03-05 17:28:18.320 [info] Open repository: /root
+2024-03-05 17:28:18.355 [info] No remotes found in the git config file.
+2024-03-05 17:28:18.366 [info] > git config --get commit.template [24ms]
+2024-03-05 17:28:18.366 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-03-05 17:28:18.368 [warning] No such branch: master.
+2024-03-05 17:28:18.386 [info] > git fetch [67ms]
+2024-03-05 17:28:18.414 [info] > git status -z -uall [33ms] (cancelled)
+2024-03-05 17:28:18.419 [info] > git config --get commit.template [6ms]
+2024-03-05 17:28:18.420 [info] > git config --get commit.template [15ms]
+2024-03-05 17:28:18.431 [info] No remotes found in the git config file.
+2024-03-05 17:28:18.440 [info] No remotes found in the git config file.
+2024-03-05 17:28:18.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-03-05 17:28:18.450 [warning] No such branch: master.
+2024-03-05 17:28:18.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2024-03-05 17:28:18.461 [warning] No such branch: master.
+2024-03-05 17:28:18.681 [info] > git show --textconv :main.py [19ms]
+2024-03-05 17:28:18.687 [info] > git ls-files --stage -- /root/main.py [7ms]
+2024-03-05 17:28:18.898 [info] > git check-ignore -v -z --stdin [2ms]
+2024-03-05 17:28:19.011 [info] > git status -z -uall [550ms] (cancelled)
+2024-03-05 17:28:19.594 [info] > git ls-files --stage -- /root/main.py [3ms]
+2024-03-05 17:28:19.651 [info] > git show --textconv :main.py [3ms]
+2024-03-05 17:28:43.419 [info] > git ls-files --stage -- /root/main.py [8ms]
+2024-03-05 17:28:43.449 [info] > git show --textconv :main.py [5ms]
+2024-03-05 17:28:50.687 [info] > git ls-files --stage -- /root/main.py [5ms]
+2024-03-05 17:28:50.768 [info] > git show --textconv :main.py [2ms]
+2024-03-05 17:28:52.727 [info] > git ls-files --stage -- /root/main.py [5ms]
+2024-03-05 17:28:52.751 [info] > git show --textconv :main.py [5ms]
+2024-03-05 17:29:00.272 [info] > git ls-files --stage -- /root/main.py [6ms]
+2024-03-05 17:29:00.337 [info] > git show --textconv :main.py [4ms]
+2024-03-05 17:29:04.185 [info] > git ls-files --stage -- /root/main.py [2ms]
+2024-03-05 17:29:04.243 [info] > git show --textconv :main.py [3ms]
+2024-03-05 17:30:00.315 [info] > git ls-files --stage -- /root/main.py [12ms]
+2024-03-05 17:30:00.328 [info] > git cat-file -s 6cd458c9e9d1d6b529d6b06aebca6782558f001a [3ms]
+2024-03-05 17:30:00.363 [info] > git show --textconv :main.py [11ms]

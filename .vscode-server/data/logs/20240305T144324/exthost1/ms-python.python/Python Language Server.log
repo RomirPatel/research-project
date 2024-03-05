@@ -1,0 +1,18 @@
+2024-03-05 14:43:34.770 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.2.1)
+2024-03-05 14:43:36.714 [info] [Info  - 2:43:36 PM] (782) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-05 14:43:36.716 [info] [Info  - 2:43:36 PM] (782) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-03-05 14:43:36.716 [info] [Info  - 2:43:36 PM] (782) Starting service instance "root"
+2024-03-05 14:43:37.469 [info] [Info  - 2:43:37 PM] (782) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-05 14:43:37.470 [info] [Info  - 2:43:37 PM] (782) Setting environmentName for service "root": "3.11.2 (global)"
+2024-03-05 14:43:37.716 [info] [Info  - 2:43:37 PM] (782) Assuming Python version 3.11
+2024-03-05 14:43:38.049 [info] [Info  - 2:43:38 PM] (782) Found 1 source file
+2024-03-05 14:43:39.573 [info] [Info  - 2:43:39 PM] (782) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-03-05 14:43:39.574 [info] [Info  - 2:43:39 PM] (782) Background analysis(1) started
+2024-03-05 14:43:40.613 [info] [Info  - 2:43:40 PM] (782) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-03-05 14:43:40.614 [info] [Info  - 2:43:40 PM] (782) Indexing(2) started
+2024-03-05 14:43:44.768 [info] [Info  - 2:43:44 PM] (782) [IDX(2)] Long operation: scan packages file:///root (4142ms)
+2024-03-05 14:43:44.768 [info] [Info  - 2:43:44 PM] (782) scanned(2) 98 files over 1 exec env
+2024-03-05 14:43:45.461 [info] [Info  - 2:43:45 PM] (782) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (3811ms)
+2024-03-05 14:43:47.607 [info] [Info  - 2:43:47 PM] (782) indexed(2) 75 files over 1 exec env
+2024-03-05 14:43:48.229 [info] [Info  - 2:43:48 PM] (782) Indexing finished(2).
+2024-03-05 14:43:49.204 [info] [Info  - 2:43:49 PM] (782) [BG(1)] Long operation: getSemanticTokens range 0:0 - 71:0 at file:///root/main.py (9376ms)

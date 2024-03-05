@@ -1,0 +1,22 @@
+2024-03-05 17:26:59.921 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-05 17:27:00.960 [info] [Info  - 5:27:00 PM] (661) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-05 17:27:00.961 [info] [Info  - 5:27:00 PM] (661) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-05 17:27:00.961 [info] [Info  - 5:27:00 PM] (661) Starting service instance "root"
+2024-03-05 17:27:01.048 [info] [Info  - 5:27:01 PM] (661) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-05 17:27:01.048 [info] [Info  - 5:27:01 PM] (661) Setting environmentName for service "root": "3.11.2 (global)"
+2024-03-05 17:27:01.271 [info] [Info  - 5:27:01 PM] (661) Assuming Python version 3.11
+2024-03-05 17:27:01.367 [info] [Info  - 5:27:01 PM] (661) Found 1 source file
+2024-03-05 17:27:02.432 [info] [Info  - 5:27:02 PM] (661) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-05 17:27:02.437 [info] [Info  - 5:27:02 PM] (661) Background analysis(1) started
+2024-03-05 17:27:02.962 [info] [Info  - 5:27:02 PM] (661) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-05 17:27:02.963 [info] [Info  - 5:27:02 PM] (661) Indexing(2) started
+2024-03-05 17:27:06.101 [info] [Info  - 5:27:06 PM] (661) [FG] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (2765ms)
+2024-03-05 17:27:06.130 [info] [Info  - 5:27:06 PM] (661) [IDX(2)] Long operation: scan packages file:///root (2404ms)
+2024-03-05 17:27:06.131 [info] [Info  - 5:27:06 PM] (661) scanned(2) 98 files over 1 exec env
+2024-03-05 17:27:07.059 [info] [Info  - 5:27:07 PM] (661) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (2409ms)
+2024-03-05 17:27:07.868 [info] [Info  - 5:27:07 PM] (661) [BG(1)] Long operation: checking: file:///root/main.py (4618ms)
+2024-03-05 17:27:07.868 [info] [Info  - 5:27:07 PM] (661) [BG(1)] Long operation: analyzing: file:///root/main.py (5279ms)
+2024-03-05 17:27:14.067 [info] [Info  - 5:27:14 PM] (661) [IDX(2)] Long operation: index execution environment file:///root (6724ms)
+2024-03-05 17:27:14.118 [info] [Info  - 5:27:14 PM] (661) [IDX(2)] Long operation: index packages file:///root (6787ms)
+2024-03-05 17:27:14.119 [info] [Info  - 5:27:14 PM] (661) indexed(2) 75 files over 1 exec env
+2024-03-05 17:27:14.307 [info] [Info  - 5:27:14 PM] (661) Indexing finished(2).

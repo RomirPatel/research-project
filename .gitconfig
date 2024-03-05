@@ -1,0 +1,5 @@
+[user]
+	name = Romir Patel
+	email = romirpatel308@gmail.com
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/019f4d1419fbc8219a181fab7892ebccf7ee29a2/node /tmp/vscode-remote-containers-4bb80ac0-bdbb-4a63-bd55-1f1f44e0c7eb.js git-credential-helper $*; }; f"

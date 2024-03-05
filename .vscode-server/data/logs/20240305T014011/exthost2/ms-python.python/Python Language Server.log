@@ -1,0 +1,64 @@
+2024-03-05 02:05:37.235 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.2.1)
+2024-03-05 02:05:39.275 [info] [Info  - 2:05:39 AM] (23333) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-05 02:05:39.277 [info] [Info  - 2:05:39 AM] (23333) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-03-05 02:05:39.278 [info] [Info  - 2:05:39 AM] (23333) Starting service instance "root"
+2024-03-05 02:05:39.397 [info] [Info  - 2:05:39 AM] (23333) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-05 02:05:39.397 [info] [Info  - 2:05:39 AM] (23333) Setting environmentName for service "root": "3.11.2 (global)"
+2024-03-05 02:05:39.581 [info] [Info  - 2:05:39 AM] (23333) Assuming Python version 3.11
+2024-03-05 02:05:39.774 [info] [Info  - 2:05:39 AM] (23333) Found 1 source file
+2024-03-05 02:05:41.141 [info] [Info  - 2:05:41 AM] (23333) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-03-05 02:05:41.147 [info] [Info  - 2:05:41 AM] (23333) Background analysis(1) started
+2024-03-05 02:05:41.809 [info] [Info  - 2:05:41 AM] (23333) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-03-05 02:05:41.810 [info] [Info  - 2:05:41 AM] (23333) Indexing(2) started
+2024-03-05 02:05:43.438 [info] [Info  - 2:05:43 AM] (23333) scanned(2) 18 files over 1 exec env
+2024-03-05 02:05:43.637 [info] [Info  - 2:05:43 AM] (23333) [BG(1)] Long operation: analyzing: file:///root/main.py (2349ms)
+2024-03-05 02:05:44.936 [info] [Info  - 2:05:44 AM] (23333) indexed(2) 5 files over 1 exec env
+2024-03-05 02:05:45.067 [info] [Info  - 2:05:45 AM] (23333) Indexing finished(2).
+2024-03-05 02:08:30.877 [info] [Info  - 2:08:30 AM] (23333) Indexer background runner(3) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-03-05 02:08:30.879 [info] [Info  - 2:08:30 AM] (23333) Indexing(3) started
+2024-03-05 02:08:32.865 [info] [Info  - 2:08:32 AM] (23333) scanned(3) 23 files over 1 exec env
+2024-03-05 02:08:34.812 [info] [Info  - 2:08:34 AM] (23333) indexed(3) 8 files over 1 exec env
+2024-03-05 02:08:34.881 [info] [Info  - 2:08:34 AM] (23333) Indexing finished(3).
+2024-03-05 02:13:03.585 [info] [Info  - 2:13:03 AM] (23333) Indexer background runner(4) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-03-05 02:13:03.585 [info] [Info  - 2:13:03 AM] (23333) Indexing(4) started
+2024-03-05 02:13:04.759 [info] [Info  - 2:13:04 AM] (23333) scanned(4) 23 files over 1 exec env
+2024-03-05 02:13:06.066 [info] [Info  - 2:13:06 AM] (23333) indexed(4) 8 files over 1 exec env
+2024-03-05 02:13:06.128 [info] [Info  - 2:13:06 AM] (23333) Indexing finished(4).
+2024-03-05 02:15:25.718 [info] [Info  - 2:15:25 AM] (23333) Indexer background runner(5) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-03-05 02:15:25.721 [info] [Info  - 2:15:25 AM] (23333) Indexing(5) started
+2024-03-05 02:15:30.190 [info] [Info  - 2:15:30 AM] (23333) [FG] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (3309ms)
+2024-03-05 02:15:30.196 [info] [Info  - 2:15:30 AM] (23333) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (3803ms)
+2024-03-05 02:15:30.197 [info] [Info  - 2:15:30 AM] (23333) [BG(1)] Long operation: checking: file:///root/main.py (5439ms)
+2024-03-05 02:15:30.197 [info] [Info  - 2:15:30 AM] (23333) [BG(1)] Long operation: analyzing: file:///root/main.py (5860ms)
+2024-03-05 02:15:30.197 [info] [Info  - 2:15:30 AM] (23333) [IDX(5)] Long operation: scan packages file:///root (2314ms)
+2024-03-05 02:15:30.197 [info] [Info  - 2:15:30 AM] (23333) scanned(5) 29 files over 1 exec env
+2024-03-05 02:15:33.035 [info] [Info  - 2:15:33 AM] (23333) indexed(5) 12 files over 1 exec env
+2024-03-05 02:15:33.181 [info] [Info  - 2:15:33 AM] (23333) Indexing finished(5).
+2024-03-05 02:16:44.012 [info] [Info  - 2:16:44 AM] (23333) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-05 02:16:44.012 [info] [Info  - 2:16:44 AM] (23333) Setting environmentName for service "root": "3.11.2 (global)"
+2024-03-05 02:16:44.108 [info] [Info  - 2:16:44 AM] (23333) Assuming Python version 3.11
+2024-03-05 02:16:44.219 [info] [Info  - 2:16:44 AM] (23333) Found 1 source file
+2024-03-05 02:16:45.274 [info] [Info  - 2:16:45 AM] (23333) Indexer background runner(6) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-03-05 02:16:45.274 [info] [Info  - 2:16:45 AM] (23333) Indexing(6) started
+2024-03-05 02:16:46.510 [info] [Info  - 2:16:46 AM] (23333) scanned(6) 29 files over 1 exec env
+2024-03-05 02:16:47.575 [info] [Info  - 2:16:47 AM] (23333) [BG(1)] Long operation: checking: file:///root/main.py (2294ms)
+2024-03-05 02:16:47.576 [info] [Info  - 2:16:47 AM] (23333) [BG(1)] Long operation: analyzing: file:///root/main.py (2508ms)
+2024-03-05 02:16:47.804 [info] [Info  - 2:16:47 AM] (23333) indexed(6) 12 files over 1 exec env
+2024-03-05 02:16:47.923 [info] [Info  - 2:16:47 AM] (23333) Indexing finished(6).
+2024-03-05 02:27:51.679 [info] [Info  - 2:27:51 AM] (23333) Indexer background runner(7) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-03-05 02:27:51.681 [info] [Info  - 2:27:51 AM] (23333) Indexing(7) started
+2024-03-05 02:27:51.703 [info] [Info  - 2:27:51 AM] (23333) Indexing finished(7).
+2024-03-05 02:27:52.674 [info] [Info  - 2:27:52 AM] (23333) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (2589ms)
+2024-03-05 02:27:55.267 [info] [Info  - 2:27:55 AM] (23333) [BG(1)] Long operation: checking: file:///root/main.py (5377ms)
+2024-03-05 02:27:55.268 [info] [Info  - 2:27:55 AM] (23333) [BG(1)] Long operation: analyzing: file:///root/main.py (6192ms)
+2024-03-05 02:28:02.180 [info] [Info  - 2:28:02 AM] (23333) Indexer background runner(8) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (refresh)
+2024-03-05 02:28:02.181 [info] [Info  - 2:28:02 AM] (23333) Indexing(8) started
+2024-03-05 02:28:03.344 [info] [Info  - 2:28:03 AM] (23333) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (2479ms)
+2024-03-05 02:28:04.992 [info] [Info  - 2:28:04 AM] (23333) [IDX(8)] Long operation: scan packages file:///root (2818ms)
+2024-03-05 02:28:04.993 [info] [Info  - 2:28:04 AM] (23333) scanned(8) 98 files over 1 exec env
+2024-03-05 02:28:05.457 [info] [Info  - 2:28:05 AM] (23333) [BG(1)] Long operation: checking: file:///root/main.py (4628ms)
+2024-03-05 02:28:05.457 [info] [Info  - 2:28:05 AM] (23333) [BG(1)] Long operation: analyzing: file:///root/main.py (4738ms)
+2024-03-05 02:28:15.421 [info] [Info  - 2:28:15 AM] (23333) [IDX(8)] Long operation: index execution environment file:///root (7652ms)
+2024-03-05 02:28:15.421 [info] [Info  - 2:28:15 AM] (23333) [IDX(8)] Long operation: index packages file:///root (7711ms)
+2024-03-05 02:28:15.421 [info] [Info  - 2:28:15 AM] (23333) indexed(8) 75 files over 1 exec env
+2024-03-05 02:28:15.534 [info] [Info  - 2:28:15 AM] (23333) Indexing finished(8).

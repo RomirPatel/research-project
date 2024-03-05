@@ -1,0 +1,21 @@
+from scapy.all import rdpcap
+import pandas as pd
+
+pcap = rdpcap("test.pcapng")
+
+# Extract relevant features from the packets
+features = []
+for pkt in pcap:
+    if pkt.haslayer("IP"):
+        src_ip = pkt["IP"].src
+        dst_ip = pkt["IP"].dst
+        protocol = pkt["IP"].proto
+        info = pkt["IP"].info
+        length = len(pkt)
+        
+        features.append([src_ip, dst_ip, protocol, length])
+
+
+data = pd.DataFrame(features, columns=["src_ip", "dst_ip", "protocol", "length", "info"])
+
+print(data)
