@@ -1,4 +1,4 @@
-                             #   PROJECT GOAL
+# Project Goal 
 
 
  ~ Be able to use PCAP files and output data into a visually appealing GUI (later on in the project can work with **live** packet captures)
