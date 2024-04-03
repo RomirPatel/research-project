@@ -1,0 +1,13 @@
+2024-03-11 15:13:10.709 [info] Revived process, old id 071bc311dadb12e47154a246358a4a17-2 -> new id 1
+2024-03-11 15:54:40.996 [info] Revived process, old id 071bc311dadb12e47154a246358a4a17-5 -> new id 6
+2024-03-11 15:54:41.072 [info] Expanding terminal instance, old id 071bc311dadb12e47154a246358a4a17-4 -> new id undefined
+2024-03-11 15:54:41.078 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty on pty host
+2024-03-11 15:54:41.078 [info] Expanding terminal instance, old id 071bc311dadb12e47154a246358a4a17-5 -> new id 6
+2024-03-11 15:54:44.480 [warning] Persistent process "6": Process had no disconnect runners but was an orphan
+2024-03-11 15:54:44.480 [info] Persistent process reconnection "6"
+2024-03-11 15:54:44.744 [info] Persistent process "6": Replaying 253 chars and 1 size events
+2024-03-11 16:12:15.284 [info] Revived process, old id 071bc311dadb12e47154a246358a4a17-6 -> new id 8
+2024-03-11 16:12:15.507 [info] Expanding terminal instance, old id 071bc311dadb12e47154a246358a4a17-6 -> new id 8
+2024-03-11 16:12:21.774 [warning] Persistent process "8": Process had no disconnect runners but was an orphan
+2024-03-11 16:12:21.774 [info] Persistent process reconnection "8"
+2024-03-11 16:12:22.650 [info] Persistent process "8": Replaying 70 chars and 1 size events

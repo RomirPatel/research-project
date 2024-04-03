@@ -1,0 +1,19 @@
+2024-03-11 15:54:54.334 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-11 15:54:56.612 [info] [Info  - 3:54:56 PM] (28562) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-11 15:54:56.615 [info] [Info  - 3:54:56 PM] (28562) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-11 15:54:56.616 [info] [Info  - 3:54:56 PM] (28562) Starting service instance "root"
+2024-03-11 15:54:56.776 [info] [Info  - 3:54:56 PM] (28562) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-11 15:54:56.777 [info] [Info  - 3:54:56 PM] (28562) Setting environmentName for service "root": "3.11.2 (global)"
+2024-03-11 15:54:57.048 [info] [Info  - 3:54:57 PM] (28562) Assuming Python version 3.11
+2024-03-11 15:54:57.229 [info] [Info  - 3:54:57 PM] (28562) Found 1 source file
+2024-03-11 15:54:59.512 [info] [Info  - 3:54:59 PM] (28562) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-11 15:54:59.520 [info] [Info  - 3:54:59 PM] (28562) Background analysis(1) started
+2024-03-11 15:55:00.136 [info] [Info  - 3:55:00 PM] (28562) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-11 15:55:00.136 [info] [Info  - 3:55:00 PM] (28562) Indexing(2) started
+2024-03-11 15:55:02.647 [info] [Info  - 3:55:02 PM] (28562) [IDX(2)] Long operation: scan packages file:///root (2485ms)
+2024-03-11 15:55:02.647 [info] [Info  - 3:55:02 PM] (28562) scanned(2) 98 files over 1 exec env
+2024-03-11 15:55:05.031 [info] [Info  - 3:55:05 PM] (28562) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (3516ms)
+2024-03-11 15:55:05.416 [info] [Info  - 3:55:05 PM] (28562) indexed(2) 75 files over 1 exec env
+2024-03-11 15:55:05.689 [info] [Info  - 3:55:05 PM] (28562) Indexing finished(2).
+2024-03-11 15:55:06.424 [info] [Info  - 3:55:06 PM] (28562) [BG(1)] Long operation: checking: file:///root/main.py (5626ms)
+2024-03-11 15:55:06.425 [info] [Info  - 3:55:06 PM] (28562) [BG(1)] Long operation: analyzing: file:///root/main.py (6685ms)

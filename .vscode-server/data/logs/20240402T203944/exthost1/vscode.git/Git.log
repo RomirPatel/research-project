@@ -1,0 +1,33 @@
+2024-04-02 20:39:53.379 [info] Log level: Info
+2024-04-02 20:39:53.379 [info] Validating found git in: "git"
+2024-04-02 20:39:53.379 [info] Using git "2.39.2" from "git"
+2024-04-02 20:39:53.379 [info] > git rev-parse --show-toplevel [27ms]
+2024-04-02 20:39:53.379 [info] > git rev-parse --git-dir --git-common-dir [98ms]
+2024-04-02 20:39:53.379 [info] Open repository: /root
+2024-04-02 20:39:53.381 [info] > git rev-parse --show-toplevel [8ms]
+2024-04-02 20:39:53.385 [info] > git config --get commit.template [25ms]
+2024-04-02 20:39:53.419 [info] > git rev-parse --show-toplevel [21ms]
+2024-04-02 20:39:53.468 [info] > git rev-parse --show-toplevel [36ms]
+2024-04-02 20:39:53.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [56ms]
+2024-04-02 20:39:53.552 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-02 20:39:54.060 [info] > git check-ignore -v -z --stdin [127ms]
+2024-04-02 20:39:54.062 [info] > git show --textconv :main.py [103ms]
+2024-04-02 20:39:54.130 [info] > git ls-files --stage -- /root/main.py [155ms]
+2024-04-02 20:39:54.152 [info] > git cat-file -s 6cd458c9e9d1d6b529d6b06aebca6782558f001a [10ms]
+2024-04-02 20:39:54.252 [info] > git status -z -uall [682ms] (cancelled)
+2024-04-02 20:49:47.773 [info] > git fetch [3856ms]
+2024-04-02 20:49:47.953 [info] > git config --get commit.template [182ms]
+2024-04-02 20:49:48.029 [info] > git config --get commit.template [23ms]
+2024-04-02 20:49:48.133 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2024-04-02 20:49:48.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-04-02 20:49:55.496 [info] > git status -z -uall [7160ms] (cancelled)
+2024-04-02 20:49:55.544 [info] > git ls-files --stage -- /root/main.py [412ms]
+2024-04-02 20:49:55.722 [info] > git cat-file -s 6cd458c9e9d1d6b529d6b06aebca6782558f001a [147ms]
+2024-04-02 20:49:56.961 [info] > git show --textconv :main.py [29ms]
+2024-04-02 20:53:17.787 [info] > git fetch [528ms]
+2024-04-02 20:53:17.824 [info] > git config --get commit.template [19ms]
+2024-04-02 20:53:17.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-04-02 20:53:22.576 [info] > git status -z -uall [4734ms] (cancelled)
+2024-04-02 20:53:23.747 [info] > git ls-files --stage -- /root/main.py [25ms]
+2024-04-02 20:53:23.771 [info] > git cat-file -s 6cd458c9e9d1d6b529d6b06aebca6782558f001a [3ms]
+2024-04-02 20:53:23.815 [info] > git show --textconv :main.py [13ms]

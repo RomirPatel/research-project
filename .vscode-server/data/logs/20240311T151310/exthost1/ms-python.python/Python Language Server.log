@@ -1,0 +1,19 @@
+2024-03-11 15:13:20.071 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-11 15:13:21.507 [info] [Info  - 3:13:21 PM] (770) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-11 15:13:21.511 [info] [Info  - 3:13:21 PM] (770) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-11 15:13:21.516 [info] [Info  - 3:13:21 PM] (770) Starting service instance "root"
+2024-03-11 15:13:21.664 [info] [Info  - 3:13:21 PM] (770) Setting pythonPath for service "root": "/usr/bin/python3"
+2024-03-11 15:13:21.665 [info] [Info  - 3:13:21 PM] (770) Setting environmentName for service "root": "3.8.2 (global)"
+2024-03-11 15:13:21.746 [info] [Info  - 3:13:21 PM] (770) Assuming Python version 3.11
+2024-03-11 15:13:22.068 [info] [Info  - 3:13:22 PM] (770) Found 1 source file
+2024-03-11 15:13:25.427 [info] [Info  - 3:13:25 PM] (770) Background analysis(1) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-11 15:13:25.428 [info] [Info  - 3:13:25 PM] (770) Background analysis(1) started
+2024-03-11 15:13:25.632 [info] [Info  - 3:13:25 PM] (770) Indexer background runner(2) root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-11 15:13:25.632 [info] [Info  - 3:13:25 PM] (770) Indexing(2) started
+2024-03-11 15:13:27.444 [info] [Info  - 3:13:27 PM] (770) scanned(2) 98 files over 1 exec env
+2024-03-11 15:13:29.348 [info] [Info  - 3:13:29 PM] (770) [BG(1)] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (2205ms)
+2024-03-11 15:13:29.731 [info] [Info  - 3:13:29 PM] (770) indexed(2) 75 files over 1 exec env
+2024-03-11 15:13:29.968 [info] [Info  - 3:13:29 PM] (770) Indexing finished(2).
+2024-03-11 15:13:30.161 [info] [Info  - 3:13:30 PM] (770) [BG(1)] Long operation: checking: file:///root/main.py (4026ms)
+2024-03-11 15:13:30.162 [info] [Info  - 3:13:30 PM] (770) [BG(1)] Long operation: analyzing: file:///root/main.py (4686ms)
+2024-03-11 15:22:41.747 [info] [Info  - 3:22:41 PM] (770) [FG] Long operation: binding: file:///usr/local/lib/python3.11/dist-packages/scapy/all.py (3087ms)

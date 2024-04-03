@@ -1,0 +1,59 @@
+2024-04-03 15:07:44.692 [info] Experiment 'pythonaa' is active
+2024-04-03 15:07:44.692 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-03 15:07:44.692 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-03 15:07:44.692 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-03 15:07:44.692 [info] Experiment 'pythonTestAdapter' is active
+2024-04-03 15:07:44.693 [info] Default formatter is set to null for workspace /root
+2024-04-03 15:07:44.693 [info] Test server listening.
+2024-04-03 15:07:44.693 [info] Python interpreter path: /usr/bin/python3
+2024-04-03 15:07:48.115 [info] Starting Pylance language server.
+2024-04-03 15:10:00.245 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:10:02.508 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:12:02.222 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:12:02.739 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:13:48.678 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:13:52.353 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:16:06.194 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:16:06.417 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:17:14.819 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:17:16.907 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:19:01.850 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:19:03.499 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:19:05.158 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:21:40.632 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:25:34.241 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:25:37.895 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:26:04.467 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:26:06.592 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:26:10.466 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:26:23.883 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:30:04.121 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:30:05.098 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:30:21.341 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:30:41.354 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:30:44.179 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:31:01.501 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:31:08.614 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:33:06.290 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:33:07.569 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:33:09.689 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:33:10.763 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:39:50.450 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:39:59.282 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:40:01.618 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:40:02.697 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:40:06.518 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:45:20.573 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:45:55.711 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:46:36.100 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:46:39.334 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:56:27.746 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:57:18.220 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:57:40.942 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:57:43.390 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 15:57:47.660 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 15:58:51.844 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 16:00:37.410 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 16:00:42.022 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-04-03 16:03:06.753 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-04-03 16:03:10.491 [info] Send text to terminal: /usr/bin/python3 /root/main.py

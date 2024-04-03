@@ -1,0 +1,13 @@
+2024-03-11 15:13:16.819 [info] Experiment 'pythonaa' is active
+2024-03-11 15:13:16.819 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-11 15:13:16.819 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-11 15:13:16.819 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-11 15:13:16.819 [info] Experiment 'pythonTestAdapter' is active
+2024-03-11 15:13:17.167 [info] Default formatter is set to null for workspace /root
+2024-03-11 15:13:18.048 [info] Test server listening.
+2024-03-11 15:13:20.060 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-11 15:13:20.264 [info] Python interpreter path: /usr/bin/python3
+2024-03-11 15:13:21.554 [info] Starting Pylance language server.
+2024-03-11 15:22:50.266 [info] Discover tests for workspace name: root - uri: /root/main.py
+2024-03-11 15:24:17.548 [info] Send text to terminal: /usr/bin/python3 /root/main.py
+2024-03-11 15:25:16.488 [info] Send text to terminal: /usr/bin/python3 /root/main.py

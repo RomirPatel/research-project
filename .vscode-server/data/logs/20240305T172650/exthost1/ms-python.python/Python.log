@@ -1,9 +1,0 @@
-2024-03-05 17:26:58.880 [info] Experiment 'pythonaa' is active
-2024-03-05 17:26:58.880 [info] Experiment 'pythonRecommendTensorboardExt' is active
-2024-03-05 17:26:58.880 [info] Experiment 'pythonREPLSmartSend' is active
-2024-03-05 17:26:58.880 [info] Experiment 'pythonTerminalEnvVarActivation' is active
-2024-03-05 17:26:58.880 [info] Experiment 'pythonTestAdapter' is active
-2024-03-05 17:26:58.880 [info] Default formatter is set to null for workspace /root
-2024-03-05 17:26:58.880 [info] Test server listening.
-2024-03-05 17:26:58.880 [info] Python interpreter path: /usr/bin/python3
-2024-03-05 17:27:00.990 [info] Starting Pylance language server.

@@ -1,0 +1,390 @@
+3/4/2024 -- 16:04:00 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:04:00 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:04:00 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:04:00 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:04:00 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:04:00 - <Info> - 1 rule files processed. 2 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:04:00 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:04:00 - <Info> - 2 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:04:00 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:04:00 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:04:00 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:04:00 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:04:01 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:04:01 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:04:01 - <Info> - time elapsed 1.243s
+3/4/2024 -- 16:04:01 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:04:01 - <Info> - Alerts: 0
+3/4/2024 -- 16:04:01 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:04:14 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:04:14 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:04:14 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:04:14 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:04:14 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:04:14 - <Info> - 1 rule files processed. 2 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:04:14 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:04:14 - <Info> - 2 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:04:14 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:04:14 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:04:14 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:04:14 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:04:15 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:04:15 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:04:15 - <Info> - time elapsed 1.236s
+3/4/2024 -- 16:04:15 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:04:15 - <Info> - Alerts: 0
+3/4/2024 -- 16:04:16 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:04:26 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:04:26 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:04:27 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:04:27 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:04:27 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:04:27 - <Info> - 1 rule files processed. 13 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:04:27 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:04:27 - <Info> - 13 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 13 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:04:27 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:04:27 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:04:27 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:04:27 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:04:28 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:04:28 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:04:28 - <Info> - time elapsed 1.169s
+3/4/2024 -- 16:04:28 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:04:28 - <Info> - Alerts: 0
+3/4/2024 -- 16:04:28 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:04:42 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:04:42 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:04:43 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:04:43 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:04:43 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:04:43 - <Info> - 1 rule files processed. 18 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:04:43 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:04:43 - <Info> - 18 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 18 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:04:43 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:04:43 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:04:43 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:04:43 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:04:44 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:04:44 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:04:44 - <Info> - time elapsed 1.380s
+3/4/2024 -- 16:04:44 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:04:44 - <Info> - Alerts: 2
+3/4/2024 -- 16:04:44 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:04:56 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:04:56 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:04:56 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:04:56 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:04:56 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:04:56 - <Info> - 1 rule files processed. 28 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:04:56 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:04:56 - <Info> - 28 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 28 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:04:57 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:04:57 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:04:57 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:04:57 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:04:58 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:04:58 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:04:58 - <Info> - time elapsed 1.930s
+3/4/2024 -- 16:04:58 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:04:58 - <Info> - Alerts: 0
+3/4/2024 -- 16:04:58 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:05:10 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:05:10 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:05:10 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:05:10 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:05:10 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "dnp3" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.dnp3.detection-enabled
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert dnp3 any any -> any any (msg:"SURICATA DNP3 Request flood detected";       app-layer-event:dnp3.flooded; classtype:protocol-command-decode; sid:2270000; rev:2;)" from file /etc/suricata/rules/dnp3-events.rules at line 7
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "dnp3" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.dnp3.detection-enabled
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert dnp3 any any -> any any (msg:"SURICATA DNP3 Length too small";       app-layer-event:dnp3.len_too_small; classtype:protocol-command-decode; sid:2270001; rev:3;)" from file /etc/suricata/rules/dnp3-events.rules at line 13
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "dnp3" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.dnp3.detection-enabled
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert dnp3 any any -> any any (msg:"SURICATA DNP3 Bad link CRC";       app-layer-event:dnp3.bad_link_crc; classtype:protocol-command-decode; sid:2270002; rev:2;)" from file /etc/suricata/rules/dnp3-events.rules at line 17
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "dnp3" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.dnp3.detection-enabled
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert dnp3 any any -> any any (msg:"SURICATA DNP3 Bad transport CRC";       app-layer-event:dnp3.bad_transport_crc; classtype:protocol-command-decode; sid:2270003; rev:2;)" from file /etc/suricata/rules/dnp3-events.rules at line 21
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "dnp3" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.dnp3.detection-enabled
+3/4/2024 -- 16:05:10 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert dnp3 any any -> any any (msg:"SURICATA DNP3 Unknown object";       app-layer-event:dnp3.unknown_object; classtype:protocol-command-decode; sid:2270004; rev:2;)" from file /etc/suricata/rules/dnp3-events.rules at line 25
+3/4/2024 -- 16:05:10 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+3/4/2024 -- 16:05:10 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:05:10 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:05:11 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:05:11 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:05:11 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:05:11 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:05:11 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:05:11 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:05:12 - <Info> - time elapsed 1.638s
+3/4/2024 -- 16:05:12 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:05:12 - <Info> - Alerts: 0
+3/4/2024 -- 16:05:12 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:05:26 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:05:26 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:05:27 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:05:27 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:05:27 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:05:27 - <Info> - 1 rule files processed. 11 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:05:27 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:05:27 - <Info> - 11 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 11 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:05:29 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:05:29 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:05:29 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:05:29 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:05:31 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:05:31 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:05:31 - <Info> - time elapsed 4.325s
+3/4/2024 -- 16:05:31 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:05:31 - <Info> - Alerts: 0
+3/4/2024 -- 16:05:31 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:05:48 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:05:48 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:05:49 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:05:49 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:05:49 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:05:49 - <Info> - 1 rule files processed. 3 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:05:49 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:05:49 - <Info> - 3 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 3 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:05:51 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:05:51 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:05:51 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:05:51 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:05:52 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:05:52 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:05:52 - <Info> - time elapsed 2.277s
+3/4/2024 -- 16:05:52 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:05:52 - <Info> - Alerts: 0
+3/4/2024 -- 16:05:52 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:06:03 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:06:03 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:06:03 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:06:03 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:06:03 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:06:03 - <Info> - 1 rule files processed. 2 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:06:03 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:06:03 - <Info> - 2 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:06:04 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:06:04 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:06:04 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:06:04 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:06:05 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:06:05 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:06:05 - <Info> - time elapsed 1.429s
+3/4/2024 -- 16:06:05 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:06:05 - <Info> - Alerts: 0
+3/4/2024 -- 16:06:05 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:06:19 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:06:19 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:06:19 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:06:19 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:06:19 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:06:19 - <Info> - 1 rule files processed. 115 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:06:19 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:06:19 - <Info> - 115 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 108 are decoder event only
+3/4/2024 -- 16:06:19 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:06:19 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:06:19 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:06:19 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:06:20 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:06:20 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:06:20 - <Info> - time elapsed 1.049s
+3/4/2024 -- 16:06:20 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:06:20 - <Info> - Alerts: 0
+3/4/2024 -- 16:06:20 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:06:31 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:06:31 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:06:33 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:06:33 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:06:33 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:06:33 - <Info> - 1 rule files processed. 49 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:06:33 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:06:33 - <Info> - 49 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 49 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:06:33 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:06:33 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:06:33 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:06:34 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:06:34 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:06:34 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:06:34 - <Info> - time elapsed 1.465s
+3/4/2024 -- 16:06:34 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:06:34 - <Info> - Alerts: 0
+3/4/2024 -- 16:06:35 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:06:50 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:06:50 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:06:50 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:06:50 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:06:50 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:06:50 - <Info> - 1 rule files processed. 6 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:06:50 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:06:50 - <Info> - 6 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:06:51 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:06:51 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:06:51 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:06:51 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:06:51 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:06:51 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:06:51 - <Info> - time elapsed 1.131s
+3/4/2024 -- 16:06:52 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:06:52 - <Info> - Alerts: 113
+3/4/2024 -- 16:06:52 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:07:13 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:07:13 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:07:13 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:07:13 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:07:13 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:07:13 - <Info> - 1 rule files processed. 56 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:07:13 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:07:13 - <Info> - 56 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:07:14 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:07:14 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:07:14 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:07:14 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:07:15 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:07:15 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:07:15 - <Info> - time elapsed 1.409s
+3/4/2024 -- 16:07:15 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:07:15 - <Info> - Alerts: 0
+3/4/2024 -- 16:07:15 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:07:25 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:07:25 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:07:25 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:07:25 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:07:25 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:07:25 - <Info> - 1 rule files processed. 2 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:07:25 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:07:25 - <Info> - 2 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:07:26 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:07:26 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:07:26 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:07:26 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:07:26 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:07:26 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:07:26 - <Info> - time elapsed 0.913s
+3/4/2024 -- 16:07:26 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:07:26 - <Info> - Alerts: 0
+3/4/2024 -- 16:07:27 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:07:38 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:07:38 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:07:38 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:07:38 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:07:38 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus invalid Protocol version"; app-layer-event:modbus.invalid_protocol_id; classtype:protocol-command-decode; sid:2250001; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 2
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus unsolicited response"; app-layer-event:modbus.unsolicited_response; classtype:protocol-command-decode; sid:2250002; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 4
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus invalid Length"; app-layer-event:modbus.invalid_length; classtype:protocol-command-decode; sid:2250003; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 6
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus invalid Unit Identifier"; app-layer-event:modbus.invalid_unit_identifier; classtype:protocol-command-decode; sid:2250004; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 8
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus invalid Function code"; app-layer-event:modbus.invalid_function_code; classtype:protocol-command-decode; sid:2250005; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 10
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus invalid Value"; app-layer-event:modbus.invalid_value; classtype:protocol-command-decode; sid:2250006; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 12
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus Exception code invalid"; flow:to_client; app-layer-event:modbus.invalid_exception_code; classtype:protocol-command-decode; sid:2250007; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 14
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus Data mismatch"; flow:to_client; app-layer-event:modbus.value_mismatch; classtype:protocol-command-decode; sid:2250008; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 16
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "modbus" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.modbus.detection-enabled
+3/4/2024 -- 16:07:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert modbus any any -> any any (msg:"SURICATA Modbus Request flood detected"; flow:to_server; app-layer-event:modbus.flooded; classtype:protocol-command-decode; sid:2250009; rev:2;)" from file /etc/suricata/rules/modbus-events.rules at line 18
+3/4/2024 -- 16:07:38 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+3/4/2024 -- 16:07:38 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:07:38 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:07:38 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:07:38 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:07:38 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:07:38 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:07:40 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:07:40 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:07:40 - <Info> - time elapsed 1.982s
+3/4/2024 -- 16:07:40 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:07:40 - <Info> - Alerts: 0
+3/4/2024 -- 16:07:40 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:07:53 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:07:53 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:07:53 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:07:53 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:07:53 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:07:53 - <Info> - 1 rule files processed. 5 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:07:53 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:07:53 - <Info> - 5 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 5 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:07:53 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:07:53 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:07:53 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:07:53 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:07:54 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:07:54 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:07:55 - <Info> - time elapsed 1.445s
+3/4/2024 -- 16:07:55 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:07:55 - <Info> - Alerts: 0
+3/4/2024 -- 16:07:55 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:08:11 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:08:11 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:08:12 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:08:12 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:08:12 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:08:12 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+3/4/2024 -- 16:08:12 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:08:12 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:08:12 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:08:12 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:08:12 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:08:12 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:08:14 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:08:14 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:08:14 - <Info> - time elapsed 2.309s
+3/4/2024 -- 16:08:14 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:08:14 - <Info> - Alerts: 0
+3/4/2024 -- 16:08:14 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:08:28 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:08:28 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:08:29 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:08:29 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:08:29 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:08:29 - <Info> - 1 rule files processed. 13 rules successfully loaded, 0 rules failed
+3/4/2024 -- 16:08:29 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:08:29 - <Info> - 13 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 13 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:08:29 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:08:29 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:08:29 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:08:29 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:08:30 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:08:30 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:08:30 - <Info> - time elapsed 1.329s
+3/4/2024 -- 16:08:30 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:08:30 - <Info> - Alerts: 0
+3/4/2024 -- 16:08:30 - <Info> - cleaning up signature grouping structure... complete
+3/4/2024 -- 16:08:42 - <Notice> - This is Suricata version 6.0.10 RELEASE running in USER mode
+3/4/2024 -- 16:08:42 - <Info> - CPUs/cores online: 8
+3/4/2024 -- 16:08:42 - <Info> - fast output device (regular) initialized: fast.log
+3/4/2024 -- 16:08:42 - <Info> - eve-log output device (regular) initialized: eve.json
+3/4/2024 -- 16:08:42 - <Info> - stats output device (regular) initialized: stats.log
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid frame header"; flow:established; app-layer-event:http2.invalid_frame_header; classtype:protocol-command-decode; sid:2290000; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 8
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid client magic"; flow:established; app-layer-event:http2.invalid_client_magic; classtype:protocol-command-decode; sid:2290001; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 9
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid frame data"; flow:established; app-layer-event:http2.invalid_frame_data; classtype:protocol-command-decode; sid:2290002; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 10
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid header"; flow:established; app-layer-event:http2.invalid_header; classtype:protocol-command-decode; sid:2290003; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 11
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid frame length"; flow:established; app-layer-event:http2.invalid_frame_length; classtype:protocol-command-decode; sid:2290004; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 12
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 header frame with extra data"; flow:established; app-layer-event:http2.extra_header_data; classtype:protocol-command-decode; sid:2290005; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 13
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 too long frame data"; flow:established; app-layer-event:http2.long_frame_data; classtype:protocol-command-decode; sid:2290006; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 14
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 stream identifier reuse"; flow:established; app-layer-event:http2.stream_id_reuse; classtype:protocol-command-decode; sid:2290007; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 15
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 invalid HTTP1 settings during upgrade"; flow:established; app-layer-event:http2.invalid_http1_settings; classtype:protocol-command-decode; sid:2290008; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 16
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_UNKNOWN_PROTOCOL(124)] - protocol "http2" cannot be used in a signature.  Either detection for this protocol is not yet supported OR detection has been disabled for protocol through the yaml option app-layer.protocols.http2.detection-enabled
+3/4/2024 -- 16:08:42 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "alert http2 any any -> any any (msg:"SURICATA HTTP2 failed decompression"; flow:established; app-layer-event:http2.failed_decompression; classtype:protocol-command-decode; sid:2290009; rev:1;)" from file /etc/suricata/rules/http2-events.rules at line 17
+3/4/2024 -- 16:08:42 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+3/4/2024 -- 16:08:42 - <Info> - Threshold config parsed: 0 rule(s) found
+3/4/2024 -- 16:08:42 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/4/2024 -- 16:08:42 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+3/4/2024 -- 16:08:42 - <Notice> - all 9 packet processing threads, 4 management threads initialized, engine started.
+3/4/2024 -- 16:08:42 - <Info> - Starting file run for 4.pcap
+3/4/2024 -- 16:08:42 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+3/4/2024 -- 16:08:43 - <Info> - pcap file 4.pcap end of file reached (pcap err code 0)
+3/4/2024 -- 16:08:43 - <Notice> - Signal Received.  Stopping engine.
+3/4/2024 -- 16:08:44 - <Info> - time elapsed 1.516s
+3/4/2024 -- 16:08:44 - <Notice> - Pcap-file module read 1 files, 116318 packets, 46140136 bytes
+3/4/2024 -- 16:08:44 - <Info> - Alerts: 0
+3/4/2024 -- 16:08:44 - <Info> - cleaning up signature grouping structure... complete
